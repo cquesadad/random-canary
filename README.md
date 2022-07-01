@@ -11,10 +11,9 @@ npm install -g random-canary
 
 # Usage
 
-Firs it just return phrases in the console, but ideally I would like to add it in an container of the html
+To see the random phrases you have to add into an HTML tag 
 
-```bash
-random-canary
+```<p id="showPhrase"></p>
 ```
 
 # Contributing
