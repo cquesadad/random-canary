@@ -1,6 +1,6 @@
 # Canary Islands Random Phrases
 
-This a project to have fun and add random tipical Canary Island phrases in spanish.  
+This a project to have fun and add random typical Canary Island phrases in spanish.  
 
 
 ## Install
