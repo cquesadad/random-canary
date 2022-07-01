@@ -14,7 +14,7 @@
   "author": "Carlos Quesada <cquesadad90@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-canary": "./bin/global.js"
+    "random": "./bin/global.js"
   },
   "preferGlobal": true
 }

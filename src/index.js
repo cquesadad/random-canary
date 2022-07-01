@@ -15,4 +15,4 @@ const randomCanary = () => {
     console.log(phrase);
 };
 
-module.export = { randomCanary };
+module.exports = { randomCanary };
