@@ -11,8 +11,13 @@ const canaryPhrases = [
 ];
 
 const randomCanary = () => {
+    //Create random selection of array
     const phrase = canaryPhrases[Math.floor(Math.random() * canaryPhrases.length)];
     console.log(phrase);
+
+    //insert random canary phrase in html ID container
+    const showPhrase = document.getElementById("showPhrase");
+    showPhrase.innerText = phrase;
 };
 
 module.exports = { randomCanary };
