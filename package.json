@@ -1,6 +1,6 @@
 {
   "name": "random-canary",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Random de frases típicas de las Islas Canarias",
   "main": "src/index.js",
   "scripts": {
