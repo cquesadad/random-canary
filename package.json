@@ -14,7 +14,15 @@
   "author": "Carlos Quesada <cquesadad90@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random": "./bin/global.js"
+    "random": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cquesadad/random-canary.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cquesadad/random-canary/issues"
+  },
+  "homepage": "https://github.com/cquesadad/random-canary#readme"
 }
