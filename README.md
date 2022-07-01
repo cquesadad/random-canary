@@ -13,7 +13,8 @@ npm install -g random-canary
 
 To see the random phrases you have to add into an HTML tag 
 
-```<p id="showPhrase"></p>
+```
+<p id="showPhrase"></p>
 ```
 
 # Contributing
